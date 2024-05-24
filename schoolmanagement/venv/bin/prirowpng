@@ -1,4 +1,4 @@
-#!/home/nur/Kasapbasi_project_git/final_version/schoolmanagement/venv/bin/python3
+#!/home/nur/Kasapbasi_project_git/schoolmanagement/venv/bin/python3
 
 # http://www.python.org/doc/2.4.4/lib/module-itertools.html
 import itertools

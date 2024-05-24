@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/nur/Kasapbasi_project_git/final_version/schoolmanagement/venv"
+VIRTUAL_ENV="/home/nur/Kasapbasi_project_git/schoolmanagement/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
